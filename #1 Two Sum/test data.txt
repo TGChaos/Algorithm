@@ -1,0 +1,6 @@
+input
+[3,2,4]
+6
+
+Expected answer
+[1,2]

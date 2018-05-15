@@ -1,0 +1,15 @@
+##################
+$ python Solution.py --inputlist 2,4,7 --target_number 6
+
+##output:##
+2 + 4 = 6
+[0, 1]
+
+##################
+
+$ python Solution.py --inputlist 2,4,7 --target_number 3
+
+##output:##
+[-1, -1]
+
+##################
